@@ -19,4 +19,9 @@
    "devices": ["INFINIXX6882F5F3A80C3162FBAB"],
    "expiry": "05-05-2025 12:00 PM"
 },
+   "laka": {
+   "password": "$2y$12$9yShNUex1G8V1DQYws.0hOM44PBRZYH.qbtv8Os1Ocf2woMTJQjNq",
+   "devices": ["INFINIXX6531B8D39731F6BF2183D"],
+   "expiry": "05-05-2025 12:00 PM"
+},
 }
