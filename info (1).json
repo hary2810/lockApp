@@ -24,4 +24,9 @@
    "devices": ["INFINIXX6531B8D39731F6BF2183D"],
    "expiry": "05-05-2025 12:00 PM"
 },
+   "indra": {
+   "password": "$2y$12$1visd8YT/u9TpmdrNktNr.69Unmwq9mxOoLVlKEOQpMRXc0B2.E3a",
+   "devices": ["INFINIXX6531B90AA7043346C1EE7"],
+   "expiry": "29-04-2025 12:00 PM"
+},
 }
