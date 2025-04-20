@@ -34,4 +34,9 @@
    "devices": ["INFINIXX6526754130A973B2528D"],
    "expiry": "13-05-2025 12:00 PM"
 },
+   "Fernando": {
+   "password": "$2y$12$j8NDvxIpboc4xrLMdC0QsOJ8SBIwE7W0f2j9.UIV1JVL9RfRmEqjW",
+   "devices": ["SM-A207FFC393553BF19C6F7"],
+   "expiry": "20-05-2025 12:01 AM"
+},
 }
