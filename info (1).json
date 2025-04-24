@@ -54,4 +54,9 @@
    "devices": ["SM-A057F1B62BF88A60784E8"],
    "expiry": "24-05-2025 12:00 PM"
 },
+   "berin": {
+   "password": "$2y$12$k/t6oBgo0X8fZctGJeZPxe5N3fea/MHu291VfdRsuF2zG9sCIXE1W",
+   "devices": ["SM-A226B7AA4835F717F8088"],
+   "expiry": "24-05-2025 12:00 PM"
+},
 }
