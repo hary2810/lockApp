@@ -39,4 +39,19 @@
    "devices": ["SM-A207FFC393553BF19C6F7"],
    "expiry": "20-05-2025 12:01 AM"
 },
+   "udi12345": {
+   "password": "$2y$12$oliq6NUdbDwC/pXN9tkaLuJYJ1hPDVvF5XnObZcS75p8XurMzweo6",
+   "devices": ["INFINIXX6525B2C50578B4C3B5262"],
+   "expiry": "24-05-2025 12:00 PM"
+},
+   "edi12345": {
+   "password": "$2y$12$rQ4PpiYYd.wA4sQOLJVo3OFSbf4ppCAKwfbRLzdPEivVeOTD/wHMm",
+   "devices": ["SM-M156BC486024BEA87D24A"],
+   "expiry": "24-05-2025 12:00 PM"
+},
+   "xxx12345": {
+   "password": "$2y$12$pKdF8cWlvdLQnhl.b0LSGOxk8uT0GzVKKJ0rR39Krf1Zd7zkQzGr2",
+   "devices": ["SM-A057F1B62BF88A60784E8"],
+   "expiry": "24-05-2025 12:00 PM"
+},
 }
